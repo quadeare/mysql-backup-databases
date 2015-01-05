@@ -1,14 +1,11 @@
 #!/bin/bash
 
-# Copyright (C) 2013 Quadeare : lacrampe.florian@gmail.com
-# Twitter : @quadeare
-
 # Date format
 DATE=$(date +"%d-%b-%Y-%T")
 
-# Login mysql sauvegarde
-MYSQL_USER='BACKUPUSER_NAME'
-MYSQL_PASS='BACKUPUSER_PASSWORD'
+# Login mysql backup
+MYSQL_USER='BACKUP_USER_NAME'
+MYSQL_PASS='BACKUP_USER_PASSWORD'
 
 # Save folder
 SAVE_FOLDER='/var/mysql_backup'
