@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright (C) 2013 Quadeare <lacrampe.florian@gmail.com>
+# Copyright (C) 2013 Quadeare : lacrampe.florian@gmail.com
 # Twitter : @quadeare
 
 # Date format
